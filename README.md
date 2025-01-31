@@ -3,7 +3,8 @@
 ## About Me ✨
 🔭 Azure Cloud Engineer @Accenture <br>
 🌱 I’m currently learning data analytics and data science in Microsoft Azure <br>
-👯 I’m looking to collaborate on data and web dev projects <br>
+🌱 I’m currently taking the AZ-204 Microsoft Certification Exam <br>
+👯 I’m looking to collaborate on data analytics, cloud engineering, and web dev projects <br>
 
 ## Socials 📫
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/venisce-arvie-lardizabal) 
