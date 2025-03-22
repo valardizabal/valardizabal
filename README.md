@@ -2,8 +2,8 @@
 
 ## About Me ✨
 🔭 Azure Cloud Engineer @Accenture <br>
-🌱 I’m currently learning data analytics and data science in Microsoft Azure <br>
-🌱 I’m currently taking the AZ-204 Microsoft Certification Exam <br>
+🌱 I’m currently learning DevOps and Cloud Engineering in Microsoft Azure <br>
+🌱 I’m currently taking the AZ-400 Microsoft Certification Exam <br>
 👯 I’m looking to collaborate on data analytics, cloud engineering, and web dev projects <br>
 
 ## Socials 📫
